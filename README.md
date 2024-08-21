@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kalvyn Adams
+- 👋 Hi, I’m Kalvyn Adams, Undergraduate Student at University of Colorado, Boulder. I'm Majoring in Astrophysics & Physics and Minoring in Music & Computer Science
 - 👀 I’m interested in Astrophysics, Art, Reading, Environmental Music
 - 🌱 I’m currently learning: Convolutional Neural Networks in Pytorch with galaxies, N-body simulations with Tidal Disruption Events, Proton Trapping in Earth's Lower Atmospher with NOAA Satellites
 - 💞️ I’m looking to collaborate on increasing the usability and application of machine learning and simulations in the field of astrophysics
