@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IStoleTheCookieJar
+- 👋 Hi, I’m Kalvyn Adams
 - 👀 I’m interested in Astrophysics, Art, Reading, Environmental Music
 - 🌱 I’m currently learning: Proton trapping in the Inner Radiation Belt, satellite data reading in python
 - 💞️ I’m looking to collaborate on ...
