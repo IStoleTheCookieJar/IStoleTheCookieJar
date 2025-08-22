@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kalvyn Adams, Undergraduate Student at University of Colorado, Boulder. I'm Majoring in Astrophysics & Physics and Minoring in Music & Computer Science
+- 👋 Hi, I’m Kalvyn Adams, Graduate student at UCLA. I'm apart of the Galactic Center Group in the department of Astronomy and Astrophysics studying dynamics of stars and what they can tell us about possible hidden features
 - 👀 I’m interested in Astrophysics, Art, Reading, Environmental Music
-- 🌱 I’m currently learning: Convolutional Neural Networks in Pytorch with galaxies, N-body simulations with Tidal Disruption Events, Proton Trapping in Earth's Lower Atmospher with NOAA Satellites
+- 🌱 I’m currently learning: Convolutional Neural Networks in Pytorch with galaxies, N-body simulations with Tidal Disruption Events, Dynamical modeling in phase space of the center of the Milky Way
 - 💻 I’m looking to collaborate on increasing the usability and application of machine learning and simulations in the field of astrophysics
 - 📫 How to reach me adams.kalvyn@gmail.com
 
