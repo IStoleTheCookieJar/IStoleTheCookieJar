@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astrophysics, Sublime/Colossal/Epic Scale/Concept Art, Sci-Fi Reading, Environmental Music, TTRPG, and Board Games!
 - 🌱 I’m currently learning: Convolutional Neural Networks in Pytorch with galaxies, N-body simulations with Tidal Disruption Events, Dynamical modeling in phase space of the center of the Milky Way
 - 💻 I’m looking to collaborate on increasing the usability and application of machine learning and simulations in the field of astrophysics
-- 📫 How to reach me adams.kalvyn@gmail.com
+- 📫 How to reach me adams.kalvyn@gmail.com - If you found me here, let me know!
 
 <!---
 IStoleTheCookieJar/IStoleTheCookieJar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
